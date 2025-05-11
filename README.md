@@ -19,7 +19,7 @@
 ## ✨ Основные сервисы
 
 ### 🔐 Система аутентификации и управления пользователями
-[![Auth Service](https://img.shields.io/badge/🚪_SSO_Сервис-4A154B?logo=openid)](https://github.com/makhtech/authentication) [![Development Status](https://img.shields.io/badge/🚦_Статус-разработке-FFBF00)](https://github.com/makhtech/frontend/)
+[![Auth Service](https://img.shields.io/badge/🚪_SSO_Сервис-4A154B?logo=openid)](https://github.com/makhtech/authentication) [![Development Status](https://img.shields.io/badge/🚦_Статус-завершен-FFBF00)](https://github.com/makhtech/frontend/)
 - Единая точка входа (SSO) для всех сервисов
 - Многофакторная аутентификация
 - Управление ролями и правами доступа
